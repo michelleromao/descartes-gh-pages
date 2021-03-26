@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/descartes-gh-pages/static/css/main.df08f257.chunk.css",
+    "main.js": "/descartes-gh-pages/static/js/main.33920efa.chunk.js",
+    "main.js.map": "/descartes-gh-pages/static/js/main.33920efa.chunk.js.map",
+    "runtime-main.js": "/descartes-gh-pages/static/js/runtime-main.2adc1222.js",
+    "runtime-main.js.map": "/descartes-gh-pages/static/js/runtime-main.2adc1222.js.map",
+    "static/css/2.4ce9e501.chunk.css": "/descartes-gh-pages/static/css/2.4ce9e501.chunk.css",
+    "static/js/2.b9c6b25c.chunk.js": "/descartes-gh-pages/static/js/2.b9c6b25c.chunk.js",
+    "static/js/2.b9c6b25c.chunk.js.map": "/descartes-gh-pages/static/js/2.b9c6b25c.chunk.js.map",
+    "static/js/3.f5050a9d.chunk.js": "/descartes-gh-pages/static/js/3.f5050a9d.chunk.js",
+    "static/js/3.f5050a9d.chunk.js.map": "/descartes-gh-pages/static/js/3.f5050a9d.chunk.js.map",
+    "index.html": "/descartes-gh-pages/index.html",
+    "static/css/2.4ce9e501.chunk.css.map": "/descartes-gh-pages/static/css/2.4ce9e501.chunk.css.map",
+    "static/css/main.df08f257.chunk.css.map": "/descartes-gh-pages/static/css/main.df08f257.chunk.css.map",
+    "static/js/2.b9c6b25c.chunk.js.LICENSE.txt": "/descartes-gh-pages/static/js/2.b9c6b25c.chunk.js.LICENSE.txt",
+    "static/media/about-icon.da3eaa38.svg": "/descartes-gh-pages/static/media/about-icon.da3eaa38.svg",
+    "static/media/address-icon.3bbee450.svg": "/descartes-gh-pages/static/media/address-icon.3bbee450.svg",
+    "static/media/announcements.1dbbabcb.png": "/descartes-gh-pages/static/media/announcements.1dbbabcb.png",
+    "static/media/app-icon.fedaa553.svg": "/descartes-gh-pages/static/media/app-icon.fedaa553.svg",
+    "static/media/banner-app.74215694.png": "/descartes-gh-pages/static/media/banner-app.74215694.png",
+    "static/media/banner-map.c8d1d16f.png": "/descartes-gh-pages/static/media/banner-map.c8d1d16f.png",
+    "static/media/banner1.82cb0578.png": "/descartes-gh-pages/static/media/banner1.82cb0578.png",
+    "static/media/banner2.8a563bb6.png": "/descartes-gh-pages/static/media/banner2.8a563bb6.png",
+    "static/media/email-icon.62f3c709.svg": "/descartes-gh-pages/static/media/email-icon.62f3c709.svg",
+    "static/media/instagram-icon.63572b68.svg": "/descartes-gh-pages/static/media/instagram-icon.63572b68.svg",
+    "static/media/map.9d03c41a.png": "/descartes-gh-pages/static/media/map.9d03c41a.png",
+    "static/media/partner-hands.49c3d55c.png": "/descartes-gh-pages/static/media/partner-hands.49c3d55c.png",
+    "static/media/partners-icon.250b2ece.svg": "/descartes-gh-pages/static/media/partners-icon.250b2ece.svg",
+    "static/media/seals.5d145d33.png": "/descartes-gh-pages/static/media/seals.5d145d33.png",
+    "static/media/video.e9684e82.svg": "/descartes-gh-pages/static/media/video.e9684e82.svg",
+    "static/media/video_conceitual.ed69e3d6.mp4": "/descartes-gh-pages/static/media/video_conceitual.ed69e3d6.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2adc1222.js",
+    "static/css/2.4ce9e501.chunk.css",
+    "static/js/2.b9c6b25c.chunk.js",
+    "static/css/main.df08f257.chunk.css",
+    "static/js/main.33920efa.chunk.js"
+  ]
+}
