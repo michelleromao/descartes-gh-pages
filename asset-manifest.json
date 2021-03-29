@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/descartes-gh-pages/static/css/main.df08f257.chunk.css",
-    "main.js": "/descartes-gh-pages/static/js/main.33920efa.chunk.js",
-    "main.js.map": "/descartes-gh-pages/static/js/main.33920efa.chunk.js.map",
+    "main.js": "/descartes-gh-pages/static/js/main.fb16d2f8.chunk.js",
+    "main.js.map": "/descartes-gh-pages/static/js/main.fb16d2f8.chunk.js.map",
     "runtime-main.js": "/descartes-gh-pages/static/js/runtime-main.2adc1222.js",
     "runtime-main.js.map": "/descartes-gh-pages/static/js/runtime-main.2adc1222.js.map",
     "static/css/2.4ce9e501.chunk.css": "/descartes-gh-pages/static/css/2.4ce9e501.chunk.css",
-    "static/js/2.b9c6b25c.chunk.js": "/descartes-gh-pages/static/js/2.b9c6b25c.chunk.js",
-    "static/js/2.b9c6b25c.chunk.js.map": "/descartes-gh-pages/static/js/2.b9c6b25c.chunk.js.map",
+    "static/js/2.55be0541.chunk.js": "/descartes-gh-pages/static/js/2.55be0541.chunk.js",
+    "static/js/2.55be0541.chunk.js.map": "/descartes-gh-pages/static/js/2.55be0541.chunk.js.map",
     "static/js/3.f5050a9d.chunk.js": "/descartes-gh-pages/static/js/3.f5050a9d.chunk.js",
     "static/js/3.f5050a9d.chunk.js.map": "/descartes-gh-pages/static/js/3.f5050a9d.chunk.js.map",
     "index.html": "/descartes-gh-pages/index.html",
     "static/css/2.4ce9e501.chunk.css.map": "/descartes-gh-pages/static/css/2.4ce9e501.chunk.css.map",
     "static/css/main.df08f257.chunk.css.map": "/descartes-gh-pages/static/css/main.df08f257.chunk.css.map",
-    "static/js/2.b9c6b25c.chunk.js.LICENSE.txt": "/descartes-gh-pages/static/js/2.b9c6b25c.chunk.js.LICENSE.txt",
+    "static/js/2.55be0541.chunk.js.LICENSE.txt": "/descartes-gh-pages/static/js/2.55be0541.chunk.js.LICENSE.txt",
     "static/media/about-icon.da3eaa38.svg": "/descartes-gh-pages/static/media/about-icon.da3eaa38.svg",
     "static/media/address-icon.3bbee450.svg": "/descartes-gh-pages/static/media/address-icon.3bbee450.svg",
     "static/media/announcements.1dbbabcb.png": "/descartes-gh-pages/static/media/announcements.1dbbabcb.png",
@@ -34,8 +34,8 @@
   "entrypoints": [
     "static/js/runtime-main.2adc1222.js",
     "static/css/2.4ce9e501.chunk.css",
-    "static/js/2.b9c6b25c.chunk.js",
+    "static/js/2.55be0541.chunk.js",
     "static/css/main.df08f257.chunk.css",
-    "static/js/main.33920efa.chunk.js"
+    "static/js/main.fb16d2f8.chunk.js"
   ]
 }
