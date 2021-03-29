@@ -31,9 +31,9 @@ function AboutSection() {
                 </p>
                 <h4 className="acompanhe">Acompanhem nas nossas redes sociais:</h4><br/>
                 <div className="redes">
-                  <a href="https://www.youtube.com/channel/UCECIHlguuhCiSk24xiSWCew/featured">
+                  <a href="https://www.youtube.com/channel/UCECIHlguuhCiSk24xiSWCew/featured" rel="noopener" target="_blank">
                     <img src={youtube} id='ytb' alt="youtube logo"></img>/projetodescartes</a>
-                  <a href="https://www.instagram.com/projetodescartes/">
+                  <a href="https://www.instagram.com/projetodescartes/" rel="noopener" target="_blank">
                     <img src={instagram} id='insta' alt="instagram logo"></img>/projetodescartes</a>
                 </div>
               </div>

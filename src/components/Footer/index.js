@@ -4,6 +4,7 @@ import Footer from './container/Footer'
 import email from '../../assets/email-icon.svg';
 import endereco from '../../assets/address-icon.svg';
 import instagram from '../../assets/instagram-icon.svg';
+import github from '../../assets/github.png';
 
 export function FooterContainer() {
     return(
@@ -36,13 +37,13 @@ export function FooterContainer() {
             <Footer.Wrapper>
                 <Footer.Row>
                     <img src= { instagram } id='IconInstagram' alt='Instagram' width='20px' />
-                    <a href='https://www.instagram.com/shelida.crislane/'>shelida.crislane</a>
+                    <a href='https://www.instagram.com/shelida.crislane/' rel="noopener" target="_blank">shelida.crislane</a>
                     <img src= { instagram } id='IconInstagram' alt='Instagram' width='20px' />
-                    <a href='https://www.instagram.com/m.nromao/'>m.nromao</a>
+                    <a href='https://www.instagram.com/m.nromao/' rel="noopener" target="_blank">m.nromao</a>
                     <img src= { instagram } id='IconInstagram' alt='Instagram' width='20px' />
-                    <a href='https://www.instagram.com/dona.isys/'>dona.isys</a>
+                    <a href='https://www.instagram.com/dona.isys/' rel="noopener" target="_blank">dona.isys</a>
                     <img src= { instagram } id='IconInstagram' alt='Instagram' width='20px' />
-                    <a href='https://www.instagram.com/pinheiromilly/'>pinheiromilly</a>
+                    <a href='https://www.instagram.com/pinheiromilly/' rel="noopener" target="_blank">pinheiromilly</a>
                 </Footer.Row>
             </Footer.Wrapper>
             <Footer.Wrapper>
@@ -51,6 +52,13 @@ export function FooterContainer() {
                     Copyright ©  2019-2021 Descartes. Todos os direitos reservados.
                     </p> 
                 </Footer.Title>
+            </Footer.Wrapper>
+            <Footer.Wrapper>
+                <Footer.Row>
+                    
+                    <a href='https://github.com/michelleromao/descartes' id='IconGitHub' rel="noopener" target="_blank">
+                    <img src= { github }  alt='GitHub' width='20px' /> Descartes</a>
+                </Footer.Row>
             </Footer.Wrapper>
         </Footer>
     )

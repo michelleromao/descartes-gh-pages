@@ -8,7 +8,6 @@ export const Container = styled.div`
     flex-flow: column;
     justify-content: center;
     align-items: center;
-
 `
 
 export const Wrapper = styled.div`
@@ -36,6 +35,14 @@ export const Row = styled.div`
         margin-left: 25px;
         margin-right: 10px;
         margin-bottom: 30px;
+    }
+    #IconGitHub{
+        margin-top: 30px;
+        display: flex;
+        align-items: center;
+        img{
+            margin-right: 10px
+        }
     }
     a {
         text-decoration: none;
