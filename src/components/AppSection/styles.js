@@ -7,4 +7,8 @@ export const Container = styled.header`
   img{
     width: 100%
   }
+  @media screen and (max-width: 950px) {
+    margin: 2% 8%;
+  }
+
 `;

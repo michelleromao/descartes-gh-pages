@@ -10,7 +10,7 @@ function AppSection() {
   return (
     <>
       <Container id="app"> 
-      <a href="../../assets/apk/app-descartes-c9afd05840a8487f8ba77adba3cca2c2-signed.apk" download onClick={() => alert("O apk a seguir é o aplicativo Descartes! :)")}>
+      <a href="https://drive.google.com/file/d/19wxv7EXuKNL-tcRfH2FCg6Euqzc-6uKd/view?usp=sharing" onClick={() => alert("O apk a seguir é o aplicativo Descartes! :)")} target="_blank" rel="noopener">
         <img src={App} alt="Aquira o aplicativo Descartes" />
       </a>
       </Container>

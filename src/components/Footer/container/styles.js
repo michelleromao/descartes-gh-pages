@@ -17,6 +17,17 @@ export const Wrapper = styled.div`
     max-width: 1000px;
 `
 export const Column = styled.div`
+ @media screen and (max-width: 950px) {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    #IconEmail, #IconEndereco{
+        margin-right: 0 !important;
+        margin-left: 0 !important;
+        width: 50%;
+        margin-top: 15%;
+    }
+  }
     display: flex;
     flex-direction: column;
     #IconEndereco {
@@ -28,6 +39,17 @@ export const Column = styled.div`
 `
 
 export const Row = styled.div`
+  @media screen and (max-width: 950px) {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    #IconInstagram {
+        margin: 0 !important;
+    }
+    a {
+        margin-bottom: 15%; 
+    }
+  }
     display: flex;
     width: 100%;
     justify-content: space-between;
@@ -58,12 +80,19 @@ export const Row = styled.div`
 export const Link = styled.div`
     font-size: 10pt;
     color: #352166;
-    
 `
 
 export const Title = styled.div`
     color: #352166;
     font-weight: bold;
+    @media screen and (max-width: 950px) {
+        #TextOne {
+            margin: 0 0 5% 0 !important;
+        }
+        #TextTwo{
+            margin: 5% 0 0 0 !important;
+        }
+    }
     #TextOne {
         font-size: 14px;
         text-align: center;

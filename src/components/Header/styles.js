@@ -8,6 +8,24 @@ export const Container = styled.header`
 `;
 
 export const Content = styled.div`
+  @media screen and (max-width: 950px) {
+    flex-direction: column;
+    div:last-child{
+      width: 80%;
+      margin-top: 5%
+    }
+  }
+  @media screen and (max-width: 600px) {
+    flex-direction: column;
+    div:last-child{
+      flex-direction: column;
+      width: 80%;
+      margin-top: 5%;
+      a{
+        margin-top: 8%
+      }
+    }
+  }
   background-color: #F2F2F2;
   width: 100%;
   padding: 2% 10%;
@@ -21,8 +39,7 @@ export const Content = styled.div`
     display: flex;
     justify-content: space-between;
     align-items: center;
-    flex: 2;
-    max-width: 460px;
+    width: 100%;
     a{
       display: flex;
       justify-content: space-between;
